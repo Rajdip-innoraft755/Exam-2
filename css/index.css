@@ -1,0 +1,30 @@
+.man {
+  display: none;
+}
+.conatiner {
+    max-width: 1180px;
+    margin: 0 auto;
+    text-align: center;
+    height: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+ul {
+  list-style: none;
+}
+ul li {
+  display: inline-block;
+}
+ul li a {
+  display: inline-block;
+  padding: 10px;
+  text-decoration: none;
+}
+table {
+  background-color: gainsboro;
+}
+table td{
+  border: 2px black solid;
+}

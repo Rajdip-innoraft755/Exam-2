@@ -1,0 +1,1 @@
+WE ADD ALL THE SECURE CREDENTIALS IN THE config.php file.

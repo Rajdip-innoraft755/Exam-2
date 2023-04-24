@@ -1,0 +1,13 @@
+{
+    "name": "rajdip/stock_keeper",
+    "autoload": {
+        "classmap": ["./classes/"]
+    },
+    "authors": [
+        {
+            "name": "Rajdip-innoraft755",
+            "email": "rajdip.roy@innoraft.com"
+        }
+    ],
+    "require": {}
+}
